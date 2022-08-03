@@ -1,10 +1,11 @@
 <h1 align="center">Hola 👋, Soy Ariel Ferencak</h1>
 <h3 align="center">Un apasionado desarrolador Fullstack</h3>
 
-- 👨‍💻 Portfolio [https://arieliten85.github.io/portafolio/](https://arieliten85.github.io/portafolio/)
+
 
 - 💬 Algo de mi: **Desde chico me gusto todo lo relacionado con la tecnología, siempre fuí muy curioso, desarmando cosas, instalando SO,crasheando, arreglando je. Y hace 2 año me incorporé el mundo de la programación, el cual era una tarea pendiente, y cambio mi vida por completo. Hoy en día despues de más de 2 años capacitándome,estudiando,creando diferentes proyectos, me encuentro en la búsqueda laboral para segír creciendo profecionalmente y poder divirtiendome hasta donde me lleve la curiosidad.**
 
+- 👨‍💻 Portfolio [https://arieliten85.github.io/portafolio/](https://arieliten85.github.io/portafolio/)
 - 📫 Podes escribirme a : **ariel.feren.info@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
