@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Ariel Ferencak</h1>
-<h3 align="center">Un apasionado desarrolador Fullstack</h3>
+<h1 align="center">Hola 🌎!, Soy Ariel Ferencak</h1>
+<h3 align="center">FullStack Developer</h3>
 
 
 
