@@ -1,7 +1,7 @@
 <h1 align="center">Hola 🌎!</h1>
-<h4 Mi nombre es Ariel Ferencak soy un FullStack Developer de argentina, con una gran curiosidad por la tecnología y de seguir aprendiendo.</h4>
 
-**Desde chico me gusto todo lo relacionado con la tecnología, siempre fuí muy curioso, desarmando cosas, instalando SO,crasheando, arreglando je. Y hace 2 año me incorporé el mundo de la programación, el cual era una tarea pendiente, y cambio mi vida por completo. Hoy en día despues de más de 2 años capacitándome,estudiando,creando diferentes proyectos, me encuentro en la búsqueda laboral para segír creciendo profecionalmente y poder divirtiendome hasta donde me lleve la curiosidad.**
+**Mi nombre es Ariel Ferencak soy un FullStack Developer de argentina, con una gran curiosidad por la tecnología y de seguir aprendiendo.
+Desde chico me gusto todo lo relacionado con la tecnología, siempre fuí muy curioso, desarmando cosas, instalando SO,crasheando, arreglando je. Y hace 2 año me incorporé el mundo de la programación, el cual era una tarea pendiente, y cambio mi vida por completo. Hoy en día despues de más de 2 años capacitándome,estudiando,creando diferentes proyectos, me encuentro en la búsqueda laboral para segír creciendo profecionalmente y poder divirtiendome hasta donde me lleve la curiosidad.**
 
 - 👨‍💻 Portfolio [https://arieliten85.github.io/portafolio/](https://arieliten85.github.io/portafolio/)
 - 📫 Podes escribirme a : **ariel.feren.info@gmail.com**
