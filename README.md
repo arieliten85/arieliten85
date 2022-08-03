@@ -1,7 +1,16 @@
 <h1 align="center">Hola 🌎!</h1>
 
-**Mi nombre es Ariel Ferencak soy un FullStack Developer de argentina, con una gran curiosidad por la tecnología y de seguir aprendiendo.
-Desde chico me gusto todo lo relacionado con la tecnología, siempre fuí muy curioso, desarmando cosas, instalando SO,crasheando, arreglando je. Y hace 2 año me incorporé el mundo de la programación, el cual era una tarea pendiente, y cambio mi vida por completo. Hoy en día despues de más de 2 años capacitándome,estudiando,creando diferentes proyectos, me encuentro en la búsqueda laboral para segír creciendo profecionalmente y poder divirtiendome hasta donde me lleve la curiosidad.**
+**Mi nombre es Ariel Ferencak soy un FullStack Developer de argentina,me apasiona todo lo relacionado con la programación, busco poder insartarme en este mundo hermoso. para seguir aprendiendo y crecer profecionalmente.
+Desde chico siempre fuí muy curioso, desarmando cosas, instalando SO, crasheando, arreglando je.Hace 2 año me incorporé el mundo de la programación, capacitandome de forma autodidacta,y animandome siempre a más, realicé un Coding Bootcapm de [Plataforma 5](https://www.plataforma5.la/) con + 800hs,
+en 4 meses donde realizamos desafios, trabajos individuales,grupales y diferentes proyectos.
+**
+
+### ¡Te invito a que los veas! 👇
+
+- [BumeranSelecta - Jobin S.A](https://github.com/arieliten85/BumeranSelecta) 
+- [MoovSee- Web de peliculas y series](https://github.com/arieliten85/MoovSee)
+- [PauMac - Web de Fotografia](https://paula-mac.netlify.app)
+
 
 - 👨‍💻 Portfolio [https://arieliten85.github.io/portafolio/](https://arieliten85.github.io/portafolio/)
 - 📫 Podes escribirme a : **ariel.feren.info@gmail.com**
