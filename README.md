@@ -13,7 +13,12 @@ en 4 meses donde realizamos desafios, trabajos individuales,grupales y diferente
 
 
 
-- 👨‍💻 Portfolio [https://arieliten85.github.io/portafolio/](https://arieliten85.github.io/portafolio/)
+- ### 🔗 Links
+
+|[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arieliten85.github.io/portafolio/)|
+
+| [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielferencak/) |
+| 
 - 📫 Podes escribirme a : **ariel.feren.info@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
