@@ -1,8 +1,7 @@
 <h1 align="center">Hola 🌎!</h1>
 
-**Mi nombre es Ariel Ferencak soy un FullStack Developer de argentina,me apasiona todo lo relacionado con la programación, busco poder insartarme en este mundo hermoso. para seguir aprendiendo y crecer profecionalmente.
-Desde chico siempre fuí muy curioso, desarmando cosas, instalando SO, crasheando, arreglando je.Hace 2 año me incorporé el mundo de la programación, capacitandome de forma autodidacta,y animandome siempre a más, realicé un Coding Bootcapm de [Plataforma 5](https://www.plataforma5.la/) con + 800hs,
-en 4 meses donde realizamos desafios, trabajos individuales,grupales y diferentes proyectos.
+**Mi nombre es Ariel Ferencak, soy un FullStack Developer de argentina,me apasiona todo lo relacionado con la programación, busco poder insartarme en este mundo hermoso. para seguir aprendiendo y crecer profecionalmente.
+Desde chico siempre fuí muy curioso, desarmando cosas, instalando SO, crasheando, arreglando je.Hace 2 año me incorporé el mundo de la programación, capacitandome de forma autodidacta,y animandome siempre un poco más. Por realicé el Coding Bootcapm de [Plataforma 5](https://www.plataforma5.la/) con + 800hs, en 4 meses, donde realizamos disntintos desafios, trabajos tanto individuales,grupales y diferentes proyectos.
 **
 
 ### ¡Te invito a que los veas! 👇
