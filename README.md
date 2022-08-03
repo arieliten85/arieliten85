@@ -1,7 +1,5 @@
-<h1 align="center">Hola 🌎!, Soy Ariel Ferencak</h1>
-<h3 align="center">FullStack Developer</h3>
-
-
+<h1 align="center">Hola 🌎!</h1>
+<h6 Mi nombre es Ariel Ferencak soy un FullStack Developer de argentina, con una gran curiosidad por la tecnología y de seguir aprendiendo.</h6>
 
 **Desde chico me gusto todo lo relacionado con la tecnología, siempre fuí muy curioso, desarmando cosas, instalando SO,crasheando, arreglando je. Y hace 2 año me incorporé el mundo de la programación, el cual era una tarea pendiente, y cambio mi vida por completo. Hoy en día despues de más de 2 años capacitándome,estudiando,creando diferentes proyectos, me encuentro en la búsqueda laboral para segír creciendo profecionalmente y poder divirtiendome hasta donde me lleve la curiosidad.**
 
