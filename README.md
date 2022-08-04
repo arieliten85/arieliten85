@@ -7,7 +7,7 @@ Desde chico siempre fuí muy curioso, desarmando cosas, instalando SO, crasheand
 ### ¡Te invito a que los veas! 👇
 
 - [BumeranSelecta - Jobin S.A](https://github.com/arieliten85/BumeranSelecta) 
-- [MoovSee- Web de peliculas y series](https://github.com/arieliten85/MoovSee)
+- [MoovSee- Web de peliculas y series](https://moovsee.netlify.app)
 - [PauMac - Web de Fotografia](https://paula-mac.netlify.app)
 
 
