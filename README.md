@@ -14,7 +14,7 @@ Desde chico siempre fuí muy curioso, desarmando cosas, instalando SO, crasheand
 
 - ### 🔗 Links
 
-|[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arieliten85.github.io/portafolio/)|
+|[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ariel-ferencak.netlify.app/)|
 
 | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielferencak/) |
 | 
